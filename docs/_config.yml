@@ -68,6 +68,15 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-  social_links:
+social_links:
     - { platform: github,         user_url: "https://github.com/kun809" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/steven-zhu-311b40198" }
+
+
+exclude: [
+  _posts/2016-05-19-super-short-article.md,
+  _posts/2016-05-20-my-example-post.md,
+  _posts/2016-05-20-super-long-article.md,
+  _posts/2016-05-20-this-post-demonstrates-post-content-styles.md,
+  _posts/2016-05-20-welcome-to-jekyll.md
+ ]
