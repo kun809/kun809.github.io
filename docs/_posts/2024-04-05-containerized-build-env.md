@@ -60,7 +60,6 @@ However, you can also fetch your source code using git or any other method withi
 I prefer to mount a host folder for ease of access with VS Code and to ensure that my code files are properly stored, although the Docker container functions more like a "temporary" environment.
 
 The following diagram illustrates my compilation environment:
-
-![My build environment](/assets/build_env_github_page.png)
-
-
+<center>
+  <img src="/assets/build_env_github_page.png" alt="image" width="600" height="auto">
+</center>
