@@ -4,7 +4,7 @@ title: "How to Create a Dockerized C++ Build Environment"
 categories: misc
 ---
 # Why do we need a dockerized environment
-Many developers who work with C++ language, use GCC and CMake/Ninjia as their compiling tools. The tolls work very fine on Linux machines. But once switch to a new machine, they need to install and configure the tools manually. Despite the possibility of setting them up with a shell script in one step, discrepancies between Linux platforms may still lead to errors, consuming valuable time for resolution.
+Many developers who work with C++ language, use GCC and CMake/Ninjia as their compiling tools. The tools work very fine on Linux machines. But once switch to a new machine, they need to install and configure the tools manually again. Despite the possibility of setting them up with a shell script in one step, discrepancies between Linux platforms may still lead to errors, consuming valuable time for resolution.
 
 Fortunately, Docker can provide a consistent compilation environment among the Linux platform. And it is so easy to deploy and start to use it for our C++ project.
 
