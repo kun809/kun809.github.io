@@ -3,7 +3,7 @@ layout: post
 title: "Load Testing OpenAI vLLM with OpenText Performance Engineering Solutions"
 categories: misc
 ---
-*Original published: https://community.opentext.com/devops-cloud/b/devops-blog/posts/load-testing-openai-vllm-with-opentext-performance-engineering-solutions*
+***Original published**: [https://community.opentext.com/devops-cloud/b/devops-blog/posts/load-testing-openai-vllm-with-opentext-performance-engineering-solutions](https://community.opentext.com/devops-cloud/b/devops-blog/posts/load-testing-openai-vllm-with-opentext-performance-engineering-solutions)*
 
 **OpenText Performance Engineering solutions** have long been recognized as industry-leading performance testing tools, trusted for their robust support of diverse protocols and their ability to deliver scalable, fully integrated testing solutions. With the release of **CE 25.1**, we are excited to introduce an enhancement to the `WEB - HTTP/HTML protocol`: the addition of the `ResponseTime` attribute to the `web_custom_request` function. This powerful new feature empowers users to evaluate their load tests using a fresh performance metric. Beyond traditional use cases, this metric opens up exciting opportunities, including performance testing for **Large Language Model (LLM)** engines, marking a significant step forward in **OpenText Performance Engineering solutions'** evolution.
 
