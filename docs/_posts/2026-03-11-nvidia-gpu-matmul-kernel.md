@@ -8,7 +8,7 @@ categories: misc
 
 ---
 
-> **译者注：** 本文翻译自 Aleksa Gordić 的技术博客文章。原文链接：https://www.aleksagordic.com/blog/matmul
+> **译者注：** 本文翻译自 Aleksa Gordić 的技术博客文章。原文链接：[https://www.aleksagordic.com/blog/matmul](https://www.aleksagordic.com/blog/matmul)
 >
 > 这是一篇深入讲解 NVIDIA GPU 矩阵乘法内核优化的技术文章，从硬件架构、汇编语言到 SOTA 异步内核设计，内容详实且具有很强的实践指导意义。翻译过程中已尽力保持原文的技术准确性和可读性，如有疏漏之处，欢迎指正。
 
