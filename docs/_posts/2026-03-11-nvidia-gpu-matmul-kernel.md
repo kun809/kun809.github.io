@@ -4,8 +4,6 @@ title: "深入 NVIDIA GPU：高性能 matmul 内核的结构解析（译）"
 categories: misc
 ---
 
-# 深入 NVIDIA GPU：高性能 matmul 内核的结构解析
-
 ---
 
 > **译者注：** 本文翻译自 Aleksa Gordić 的技术博客文章。原文链接：[https://www.aleksagordic.com/blog/matmul](https://www.aleksagordic.com/blog/matmul)
