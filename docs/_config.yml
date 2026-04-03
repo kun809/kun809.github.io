@@ -1,4 +1,4 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 lang: zh-CN
 timezone:
@@ -77,7 +77,7 @@ compress_html:
     envs: [development]
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-paginate
   - jekyll-include-cache
   - jekyll-feed
   - jekyll-sitemap
