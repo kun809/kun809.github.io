@@ -79,7 +79,6 @@ compress_html:
 plugins:
   - jekyll-paginate
   - jekyll-include-cache
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
 
